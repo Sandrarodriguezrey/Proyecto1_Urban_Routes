@@ -14,3 +14,9 @@ Encontrar errores (es decir, la diferencia entre el resultado esperado y el resu
 2. Ejecutar los casos de prueba
 3. Crear informes de errores ( Para documentar los errores que encuentres, utiliza la pestaña "Informes de errores"  ), para la severidad, utiliza uno de los siguientes valores: Bloqueador, Crítico, Grave, Menor o Trivial.
 
+## Referencias - se adjunta foto de captura de pantallas del aplicativo
+
+Mapa ampliado (visualización de objetos, zoom, botón de modo pantalla completa, botón de modo mapa, botón de modo satélite)
+Otros objetos del mapa (edificios, metro, parques, íconos de lugares de interés, encabezado de ciudad, pines de dirección, visualización de información)
+
+
