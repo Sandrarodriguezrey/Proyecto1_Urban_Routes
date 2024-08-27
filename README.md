@@ -16,7 +16,19 @@ Encontrar errores (es decir, la diferencia entre el resultado esperado y el resu
 
 ## Referencias - se adjunta foto de captura de pantallas del aplicativo
 
-Mapa ampliado (visualización de objetos, zoom, botón de modo pantalla completa, botón de modo mapa, botón de modo satélite)
-Otros objetos del mapa (edificios, metro, parques, íconos de lugares de interés, encabezado de ciudad, pines de dirección, visualización de información)
+1. Mapa ampliado (visualización de objetos, zoom, botón de modo pantalla completa, botón de modo mapa, botón de modo satélite)
+2. Otros objetos del mapa (edificios, metro, parques, íconos de lugares de interés, encabezado de ciudad, pines de dirección, visualización de información)
+
+## Desarrollo del Proyecto
+
+1. Analice al minimo detalle la funcionalidad del aplicativo como usuario, en los Campos "Desde" y "Hasta" y funcionamiento del mapa.
+2. Detalle los casos de prueba conforme se iba probando la funcionalidad del aplicativo en base al formato asignado. ( se adjunta excel )
+3. Asigne el estado apropiado de cada prueba como "Aprobado" o " No Aprobado".
+4. Genere "Informe de error" a los casos No aprobados, asignandole un Codigo para su identificacion del BUG.
+5. Detalle en una pestana a parte el "Informe de errores" indicando el Resultado esperado, el Resultado actual y la severidad del caso. ( se adjunta excel ).
+
+
+
+
 
 
