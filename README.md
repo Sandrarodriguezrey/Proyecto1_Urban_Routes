@@ -1,4 +1,4 @@
-# Proyecto 1: Pruebas de Regresion de una aplicación de transporte - Urban Routes
+# Proyecto 1: Pruebas de Regresión de una aplicación de transporte - Urban Routes
 
 ## Descripción del Proyecto
 
