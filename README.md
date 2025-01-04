@@ -41,6 +41,8 @@ Para los casos que no eran aprobados, se generaba un Informe de Error detallado,
 
 ## El informe contiene:
 
+:mag_right: ID Unico.
+
 :mag_right: Titulo claro del error.
 
 :mag_right: Pasos para reproducir el error.
@@ -57,7 +59,7 @@ Este informe debe ser entregado a los desarrolladores para su revisión y correc
 
 **Resultado actual:** Descripción del comportamiento observado durante la prueba.
 
-**Severidad del caso:** Clasificación del error según su gravedad (por ejemplo, Alta, Media, Baja) y su impacto en el funcionamiento general del sistema.
+**Severidad del caso:** Clasificación del error según su severidad (por ejemplo, Critico, grave, moderado, leve ).
 
 Este informe debe proporcionar una visión clara de los errores encontrados, su impacto y la prioridad para su resolución.
 
