@@ -1,6 +1,6 @@
 # Proyecto de práctica 1: Pruebas de Regresión y diseño de casos de prueba para una aplicación de transporte - Urban Routes
 
-## Descripción del Proyecto
+## Descripción del Proyecto :
 
 Urban Routes es una aplicación que crea rutas y calcula la duración y precio del viaje para diferentes tipos de transporte.
 Contiene dos campos para las direcciones: "Desde" y "Hasta". Además, cuenta con tres modos ("Óptimo", "Flash" y "Personal"), así como íconos para los tipos de transporte (automóvil del usuario, a pie, taxi, bicicleta, scooter o compartir un automóvil).
