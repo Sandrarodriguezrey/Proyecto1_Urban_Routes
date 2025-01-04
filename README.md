@@ -61,7 +61,7 @@ Este informe debe ser entregado a los desarrolladores para su revisión y correc
 
 Este informe debe proporcionar una visión clara de los errores encontrados, su impacto y la prioridad para su resolución.
 
-## Referencias - se adjuntan capturas de pantalla del aplicativo
+## 6. Referencias - se adjuntan capturas de pantalla del aplicativo
 
 **1. Mapa ampliado:** Se presenta la visualización detallada del mapa, incluyendo las siguientes funcionalidades:
 
@@ -75,6 +75,22 @@ Este informe debe proporcionar una visión clara de los errores encontrados, su 
 
 **2. Otros objetos del mapa** (edificios, metro, parques, íconos de lugares de interés, encabezado de ciudad, pines de dirección, visualización de información)
 
+## 7. Herramientas utilizadas:
 
+**JIRA** Para el diseno de casos de pruebas y la gestion de errores.
+
+**Documentación de los requisitos** revisión y análisis de los requisitos proporcionados.
+
+**Hojas de calculo** Google sheets.
+
+# CONCLUSION
+
+En esta práctica de proyecto, me di cuenta que soy una apasionada por la detección de errores, pude profundizar mis habilidades como QA Engineer, utilizando herramientas como JIRA y Google Sheet para documentar errores. Siempre estoy en busca de nuevos desafios que me permitan seguir creciendo como QA Engineer. 
+
+************
+
+**Si tienes preguntas puedes contactarme en mi Linkedln.**
+
+:sparkles: **gracias** por visitar este proyecto.
 
 
