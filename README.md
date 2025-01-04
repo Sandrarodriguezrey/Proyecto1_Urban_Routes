@@ -22,7 +22,7 @@ Aqui realice un análisis minucioso del comportamiento y la interacción como us
 
 ## 2. Elaboré al detalle los casos de prueba conforme se iba probando la funcionalidad del aplicativo de acuerdo con el formato asignado. ( se adjunta excel )
 
-Mientras realizaba las pruebas, iba registrando detalladamente cada caso de prueba conforme se iba validando la funcionalidad del aplicativo, utilizando el formato de seguimiento preestablecido (archivo Excel adjunto). Esto incluia la descripción de la prueba, los pasos ejecutados, los resultados esperados y los resultados obtenidos. Cada prueba fue verificada en su totalidad para asegurar una trazabilidad completa y la correcta ejecución de todas las validaciones.
+Mientras realizaba las pruebas, iba registrando detalladamente cada caso de prueba conforme se iba validando la funcionalidad del aplicativo, utilizando el formato de seguimiento preestablecido (archivo Excel adjunto). Esto incluia la descripción de la prueba, como el titulo del caso, condicion previa, descripcion de los pasos ejecutados, los resultados esperados, el tipo de estado y el ID del error . Cada prueba fue verificada en su totalidad para asegurar una trazabilidad completa y la correcta ejecución de todas las validaciones.
    
 ## 3. Asigné el estado apropiado de cada prueba como "Aprobado" o " No Aprobado".
 
@@ -40,11 +40,13 @@ Para los casos que no eran aprobados, se generaba un Informe de Error detallado,
 
 ## El informe contiene:
 
-:mag_right: Descripción clara del error.
+:mag_right: Titulo claro del error.
 
 :mag_right: Pasos para reproducir el error.
 
-:mag_right: Impacto o consecuencias del error en el funcionamiento del sistema.
+:mag_right: Resultado esperado y resultado actual.
+
+:mag_right: Tipo de severidad.
 
 Este informe debe ser entregado a los desarrolladores para su revisión y corrección.
 
