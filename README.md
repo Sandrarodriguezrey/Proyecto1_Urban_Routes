@@ -96,7 +96,7 @@ En esta práctica de proyecto, me di cuenta que soy una apasionada por la detecc
 
 **MUCHAS ESTRELLITAS DE LUZ PARA TI** :star2::star2::star2::star2:
 
-**Si tienes preguntas puedes contactarme en mi Linkedln.**
+**Si tienes preguntas puedes contactarme en mi Linkedln. :point_right: www.linkedin.com/in/sandrarodriguez461428179**
 
 
 
