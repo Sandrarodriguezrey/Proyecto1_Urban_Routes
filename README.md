@@ -27,8 +27,8 @@ Mientras realizaba las pruebas, iba registrando detalladamente cada caso de prue
 ## 3. Asigné el estado apropiado de cada prueba como "Aprobado" o " No Aprobado".
 
 Después de haber ejecutado cada caso de prueba, asigne un estado a cada uno de los casos, basado en los resultados obtenidos. El estado puede ser uno de los siguientes:
-:key: Aprobado:  Si el resultado obtenido cumple con las expectativas y funciona según lo especificado.
-:mega: No Aprobado: Si el resultado obtenido no cumple con las expectativas o presenta errores.
+:key:   Aprobado:  Si el resultado obtenido cumple con las expectativas y funciona según lo especificado.
+:mega:  No Aprobado: Si el resultado obtenido no cumple con las expectativas o presenta errores.
 
 Aqui considero que ess fundamental que cada estado esté correctamente registrado en el formato de seguimiento para garantizar la coherencia en los resultados de las pruebas.
 
