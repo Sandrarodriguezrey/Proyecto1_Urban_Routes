@@ -36,16 +36,24 @@ Aqui considero que ess fundamental que cada estado esté correctamente registrad
 
 ## 4. Generé "Informe de error" para los casos No aprobados, asignandoles un código para su identificación del BUG.
 
-Para los casos que no eran aprobados, se generaba un Informe de Error detallado, en el cual describo los errores encontrados. Este informe incluye un código único que es para la identificación de cada bug, facilitando su seguimiento y resolución. El informe contiene:
+Para los casos que no eran aprobados, se generaba un Informe de Error detallado, en el cual describo los errores encontrados. Este informe incluye un código único que es para la identificación de cada bug, facilitando su seguimiento y resolución. 
+
+El informe contiene:
+
 Descripción clara del error.
+
 Pasos para reproducir el error.
+
 Impacto o consecuencias del error en el funcionamiento del sistema.
+
 Este informe debe ser entregado a los desarrolladores para su revisión y corrección.
 
 ## 5. Detallé en una pestaña aparte del "Informe de Errores" el Resultado esperado, el Resultado actual y la severidad del caso. ( se adjunta excel ).
 
 Resultado Esperado: Descripción de la funcionalidad que se espera de acuerdo con los requisitos.
+
 Resultado actual: Descripción del comportamiento observado durante la prueba.
+
 Severidad del caso: Clasificación del error según su gravedad (por ejemplo, Alta, Media, Baja) y su impacto en el funcionamiento general del sistema.
 
 Este informe debe proporcionar una visión clara de los errores encontrados, su impacto y la prioridad para su resolución.
@@ -55,8 +63,11 @@ Este informe debe proporcionar una visión clara de los errores encontrados, su 
 1. Mapa ampliado: Se presenta la visualización detallada del mapa, incluyendo las siguientes funcionalidades:
 
 Zoom: Capacidad para acercar o alejar la vista del mapa.
+
 Botón de modo pantalla completa: Permite ampliar el mapa a pantalla completa.
+
 Botón de modo mapa: Activación del modo estándar del mapa.
+
 Botón de modo satélite: Alternativa para visualizar el mapa en modo satélite.
 
 2. Otros objetos del mapa (edificios, metro, parques, íconos de lugares de interés, encabezado de ciudad, pines de dirección, visualización de información)
