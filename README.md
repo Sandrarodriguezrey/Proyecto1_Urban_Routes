@@ -6,7 +6,7 @@ Urban Routes es una aplicación que crea rutas y calcula la duración y precio d
 Contiene dos campos para las direcciones: "Desde" y "Hasta". Además, cuenta con tres modos ("Óptimo", "Flash" y "Personal"), así como íconos para los tipos de transporte (automóvil del usuario, a pie, taxi, bicicleta, scooter o compartir un automóvil).
 Una vez el usuario establece sus ubicaciones "Desde" y "Hasta", la aplicación recibe esa información como puntos "A" y "B". Luego, calcula la duración total de viaje y el precio utilizando un algoritmo específico
 
-## Instrucciones para el Desarrollo del Proyecto
+## Instrucciones para el Desarrollo del Proyecto :
 
 Encontrar errores (es decir, la diferencia entre el resultado esperado y el resultado actual). Informar de todos los errores que encuentres.
 
@@ -14,7 +14,7 @@ Encontrar errores (es decir, la diferencia entre el resultado esperado y el resu
 2. Ejecutar los casos de prueba
 3. Crear informes de errores ( Para documentar los errores que encuentres, utiliza la pestaña "Informes de errores"  ), para la severidad, utiliza uno de los siguientes valores: Bloqueador, Crítico, Grave, Menor o Trivial.
 
-## Desarrollo del Proyecto
+## Desarrollo del Proyecto :
 
 ## 1. Análisis detallado de la funcionalidad del aplicativo como usuario en los campos "Desde" y "Hasta" y el funcionamiento del mapa.
 
