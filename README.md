@@ -85,14 +85,20 @@ Este informe debe proporcionar una visión clara de los errores encontrados, su 
 
 **Hojas de calculo** Google sheets.
 
-# CONCLUSION
+# CONCLUSIÓN
 
 En esta práctica de proyecto, me di cuenta que soy una apasionada por la detección de errores, pude profundizar mis habilidades como QA Engineer, utilizando herramientas como JIRA y Google Sheet para documentar errores. Siempre estoy en busca de nuevos desafios que me permitan seguir creciendo como QA Engineer. 
 
 ************
 
-**Si tienes preguntas puedes contactarme en mi Linkedln.**
 
-:sparkles: **gracias** por visitar este proyecto.
+:sparkles: **GRACIAS** por visitar este proyecto. 
 
+**##MUCHAS ESTRELLITAS DE LUZ PARA TI##** :star2::star2::star2::star2:
+
+**##Si tienes preguntas puedes contactarme en mi Linkedln.##**
+
+
+
+**************
 
