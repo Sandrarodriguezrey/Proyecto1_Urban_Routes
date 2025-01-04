@@ -1,4 +1,4 @@
-# Proyecto 1: Pruebas de Regresión y diseño de casos de prueba para una aplicación de transporte - Urban Routes
+# Proyecto de práctica 1: Pruebas de Regresión y diseño de casos de prueba para una aplicación de transporte - Urban Routes
 
 ## Descripción del Proyecto
 
