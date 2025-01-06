@@ -79,7 +79,7 @@ Este informe debe proporcionar una visión clara de los errores encontrados, su 
 
 ## 7. Herramientas utilizadas:
 
-**JIRA** Para el diseno de casos de pruebas y la gestion de errores.
+**JIRA** Para el diseño de casos de pruebas y la gestión de errores.
 
 **Documentación de los requisitos** revisión y análisis de los requisitos proporcionados.
 
